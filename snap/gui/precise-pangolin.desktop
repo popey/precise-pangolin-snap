@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Precise Pangolin
+Exec=precise-pangolin %U
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/precise-pangolin.png
+StartupWMClass=precise-pangolin
+Comment=Download and install Ubuntu 12.04.4 in a VM
