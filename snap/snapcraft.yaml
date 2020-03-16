@@ -1,5 +1,6 @@
 name: precise-pangolin
 base: core18
+assumes: 2.43
 version: '12.04.4'
 summary: Download and install Ubuntu 12.04.4 in a VM
 description: |
